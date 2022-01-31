@@ -1,0 +1,39 @@
+<ACCOUNTS>
+	
+		<accounttype>
+			customer
+		</accounttype>
+		<id>
+			23
+		</id>
+		<username>
+			Eesha
+		</username>
+		<password>
+			password
+		</password>
+		<profile>
+			Best customer ever
+		</profile>
+
+
+
+		<accounttype>
+			customer
+		</accounttype>
+		<id>
+			77
+		</id>
+		<username>
+			Anjum
+		</username>
+		<password>
+			password1
+		</password>
+		<profile>
+			You are fine
+		</profile>
+
+
+
+</ACCOUNTS>
